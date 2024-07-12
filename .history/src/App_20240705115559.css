@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Great Vibes', cursive;
+}
+.navbar-brand {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2rem;
+}
+.hero {
+  background: url('../public/exquisite_phoenix.webp') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+}
+.btn-custom {
+  background-color: #ff6f61;
+  color: white;
+}
+.btn-custom:hover {
+  background-color: #e65b53;
+}
+.card-title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 1.5rem;
+}
+.contact-info p {
+  font-size: 1.1rem;
+}
