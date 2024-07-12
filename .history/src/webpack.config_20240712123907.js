@@ -1,4 +1,6 @@
 // webpack.config.js
+const path = require('path');
+
 export const resolve = {
     fallback: {
         "path": require.resolve("path-browserify"),
